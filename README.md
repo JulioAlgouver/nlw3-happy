@@ -1,3 +1,18 @@
+<h1> Happy </h1>
+
+<hr/>
+
+> Galeria
+
+<img src='https://user-images.githubusercontent.com/72042662/109531037-2aff7580-7a96-11eb-9f6e-6e7253da96b4.png' width='470px'/>  <img src='https://user-images.githubusercontent.com/72042662/109531381-93e6ed80-7a96-11eb-8fda-408420e75d0b.png' width='470px'/>
+
+<img src='https://user-images.githubusercontent.com/72042662/109533563-21c3d800-7a99-11eb-9f9e-419e18180ab7.png' width='470px'/>
+
+
+![image]()
+
+
+
 Este é a terceira edição da NLW (Next Level Week), um Workshop criado e apresentado pela Rocketseat 💜. Este projeto foi feito na trilha Booster com Typescript, React e React Native.
 
 👦 Happy
