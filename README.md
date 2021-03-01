@@ -16,7 +16,6 @@ Foram usados outros Frameworks no projeto, mas esses são os principais.
 </> Como usar o código?
 Instale o Yarn em seu computador
 Instale o NodeJs na versão >= 12.0
-Clone este repositório git clone https://github.com/pedrohenriquebraga/nlw3.git
 
 ⚙️ Backend
 Acesse a pasta backend e dê o comando yarn install
