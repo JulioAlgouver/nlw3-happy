@@ -2,12 +2,7 @@
 
 <hr/>
 
-> Galeria
-
-<img src='https://user-images.githubusercontent.com/72042662/109531037-2aff7580-7a96-11eb-9f6e-6e7253da96b4.png' width='450px'/> <img src='https://user-images.githubusercontent.com/72042662/109531381-93e6ed80-7a96-11eb-8fda-408420e75d0b.png' width='450px'/>
-
-<img src='https://user-images.githubusercontent.com/72042662/109551311-272c1d00-7aaf-11eb-8dd4-2ec81a55e013.png' width='450px'/> <img src='https://user-images.githubusercontent.com/72042662/109551634-8ee26800-7aaf-11eb-9efa-468bb6e256ca.png' width='450px'/>
-
+> Sobre o Aplicativo
 
 Este é a terceira edição da NLW (Next Level Week), um Workshop criado e apresentado pela Rocketseat 💜. Este projeto foi feito na trilha Booster com Typescript, React e React Native.
 
@@ -41,3 +36,11 @@ Acesse em seu navegador a seguinte url http://localhost:3000
  Dia 1: Criar página inicial e de listagem e também criar rotas da aplicação.
  Dia 2: Criando backend e banco de dados.
  Dia 3: Criando página de cadastro de orfanatos e finalizando projeto web.
+
+<hr/>
+
+> Galeria
+
+<img src='https://user-images.githubusercontent.com/72042662/109531037-2aff7580-7a96-11eb-9f6e-6e7253da96b4.png' width='450px'/> <img src='https://user-images.githubusercontent.com/72042662/109531381-93e6ed80-7a96-11eb-8fda-408420e75d0b.png' width='450px'/>
+
+<img src='https://user-images.githubusercontent.com/72042662/109551311-272c1d00-7aaf-11eb-8dd4-2ec81a55e013.png' width='450px'/> <img src='https://user-images.githubusercontent.com/72042662/109551634-8ee26800-7aaf-11eb-9efa-468bb6e256ca.png' width='450px'/>
