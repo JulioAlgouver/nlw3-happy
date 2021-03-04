@@ -41,6 +41,6 @@ Acesse em seu navegador a seguinte url http://localhost:3000
 
 > Galeria
 
-<img src='https://user-images.githubusercontent.com/72042662/109531037-2aff7580-7a96-11eb-9f6e-6e7253da96b4.png' width='450px'/> <img src='https://user-images.githubusercontent.com/72042662/109531381-93e6ed80-7a96-11eb-8fda-408420e75d0b.png' width='450px'/>
+<img src='https://user-images.githubusercontent.com/72042662/109531037-2aff7580-7a96-11eb-9f6e-6e7253da96b4.png' width='400px'/> <img src='https://user-images.githubusercontent.com/72042662/109531381-93e6ed80-7a96-11eb-8fda-408420e75d0b.png' width='400px'/>
 
-<img src='https://user-images.githubusercontent.com/72042662/109551311-272c1d00-7aaf-11eb-8dd4-2ec81a55e013.png' width='450px'/> <img src='https://user-images.githubusercontent.com/72042662/109551634-8ee26800-7aaf-11eb-9efa-468bb6e256ca.png' width='450px'/>
+<img src='https://user-images.githubusercontent.com/72042662/109551311-272c1d00-7aaf-11eb-8dd4-2ec81a55e013.png' width='400px'/> <img src='https://user-images.githubusercontent.com/72042662/109551634-8ee26800-7aaf-11eb-9efa-468bb6e256ca.png' width='400px'/>
